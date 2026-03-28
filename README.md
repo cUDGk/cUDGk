@@ -7,6 +7,7 @@
 - Minecraft MOD（Fabric）
 - ブラウザ拡張機能
 - スクレイパー & クローラー
+- Flutter アプリ
 
 **言語**
 
@@ -21,7 +22,10 @@
 **ツール**
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Codex CLI](https://img.shields.io/badge/Codex_CLI-412991?style=flat&logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)](https://antigravity.google/)
 [![MCP](https://img.shields.io/badge/MCP-4A154B?style=flat)](https://modelcontextprotocol.io/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)](https://threejs.org/)
