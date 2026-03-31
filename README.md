@@ -1,7 +1,5 @@
 ### cUDGk
 
-[![GitHub](https://img.shields.io/badge/GitHub-cUDGk-181717?style=flat&logo=github&logoColor=white)](https://github.com/cUDGk)
-[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat&logo=minecraft&logoColor=white)](https://github.com/cUDGk/CopyItemName)
 
 **つくってるもの**
 
