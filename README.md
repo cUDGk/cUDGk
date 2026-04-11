@@ -25,4 +25,4 @@
 [![Discord](https://img.shields.io/badge/Discord_Bot-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/developers/)
 [![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)](https://core.telegram.org/bots)
 
-site [https://cudgk.com/](https://cudgk.com/)
+[https://cudgk.com/](https://cudgk.com/)
