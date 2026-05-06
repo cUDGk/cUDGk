@@ -28,3 +28,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)](https://core.telegram.org/bots)
 
 [https://cudgk.com/](https://cudgk.com/)
+[https://fxkarotter.com/](https://fxkarotter.com/)
+[https://fxkarotter.jp/](https://fxkarotter.jp/)
