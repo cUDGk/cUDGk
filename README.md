@@ -1,7 +1,5 @@
 ### cUDGk
 
-怠惰短気傲慢
-
 **つくってるもの**
 
 - Discord / Telegram Bot
